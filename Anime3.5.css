@@ -1,0 +1,21 @@
+body{
+	background-color: black;
+}
+h1{
+	color: black;
+	text-align: center;
+}
+.banner{
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ12GCpEC0jMFEXqzcW7qb4jBJMTOUxuoh0igJN5BTZEqj_AwRXg6wydSD5PxQrpbRPoYA&usqp=CAU);
+    background-size: cover;
+    height: 100%;
+    width: 100%;	
+}
+.i{
+	float: right;
+}
+img{
+	height: 50%;
+	width: 50%;
+}
+

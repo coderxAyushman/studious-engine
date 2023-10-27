@@ -1,0 +1,21 @@
+body{
+	background-color: black;
+}
+h1{
+	color: white;
+	text-align: center;
+}
+.line2{
+	color: orange;
+	font-size: 35pt;
+}
+.line{
+	color: cyan;
+	font-size: 30pt;
+}
+#hyperl{
+	text-align: center;
+	color: black;
+	background-color: white;
+	font-size: 18pt;
+}

@@ -1,0 +1,24 @@
+body{
+	background-color: black;
+}
+#container{
+	padding: 10px;
+    text-align: center;
+	user-select: none;
+	justify-items: center;
+	border: 15px double white;
+	display: grid;
+	align-items: center;
+}
+.center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+p{
+	font-size: 18pt;
+	color: orange;
+}
